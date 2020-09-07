@@ -1,0 +1,5 @@
+Harry Potter,lordvoldemort,no autorizado
+Tony Stark,ironman,autorizado
+Paul McCartney,thebeatles,autorizado
+Ted Mosby,robinblue,no autorizado
+Chandler Bing,friends,autorizado
